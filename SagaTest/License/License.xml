@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<license id="950512cd-31e7-460d-acdc-f65402b58f06" expiration="2013-02-11T00:00:00.0000000" type="Trial" LicenseVersion="3.3" LicenseType="Trial" WorkerThreads="Max" MaxMessageThroughputPerSecond="Max" AllowedNumberOfWorkerNodes="Max">
+  <name>Trial</name>
+  <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+    <SignedInfo>
+      <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+      <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+      <Reference URI="">
+        <Transforms>
+          <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+        </Transforms>
+        <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <DigestValue>77hhjvKmFbkImeSpQjBoS3bIzVc=</DigestValue>
+      </Reference>
+    </SignedInfo>
+    <SignatureValue>Vx+ErSkzUmUHbs9A0mUW0l1hdg3Eqfy1gZF/5TEkGFhaN27bkpgd4k2FU4QVeFYkzO72vVVyAqKxIIP3UnYtNG/JLzuDvcf7U9D9l6/6NRlmtGXAs5AwpvnVypxTiaJ5WKhE0oowJDXfXwW9Jw82TJpJBGv8cD5sVyUbYuRCCLE=</SignatureValue>
+  </Signature>
+</license>

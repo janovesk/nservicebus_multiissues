@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SagaTest", "SagaTest\SagaTest.csproj", "{E1661414-2473-46AA-8E03-06A70EC7C062}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sender", "Sender\Sender.csproj", "{DA5F4B63-4224-44B2-8001-70698E59ECD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1661414-2473-46AA-8E03-06A70EC7C062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1661414-2473-46AA-8E03-06A70EC7C062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1661414-2473-46AA-8E03-06A70EC7C062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1661414-2473-46AA-8E03-06A70EC7C062}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA5F4B63-4224-44B2-8001-70698E59ECD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA5F4B63-4224-44B2-8001-70698E59ECD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA5F4B63-4224-44B2-8001-70698E59ECD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA5F4B63-4224-44B2-8001-70698E59ECD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = ..
+	EndGlobalSection
+EndGlobal
